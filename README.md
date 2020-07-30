@@ -16,22 +16,22 @@ Below is a detailed description of each of the directories used in the applicati
 ## Contents
 
 * [Config Directory](#config-directory)
-    * [config.json](#config.json)
-    * [passport.js](#passport.js)
-    * [middleware/isAuthenticated.js](#middleware/isAuthenticated.js)
+    * config.json
+    * passport.js
+    * middleware/isAuthenticated.js
 * [Models Directory](#models-directory)
-    * [index.js](#index.js)
-    * [user.js](#user.js)
+    * index.js
+    * user.js
 * [Routes Directory](#routes-directory)
-    * [api-routes.js](#api-routes.js)
-    * [html-routes.js](#html-routes.js)
+    * api-routes.js
+    * html-routes.js
 * [Public Directory](#public-directory)
-    * [style.css](#styles.css)
-    * [signup.html/signup.js](#signup.html/signup.js)
-    * [login.html/login.js](#login.html/login.js)
-    * [members.html/members.js](#members.html/members.js)
-* [server.js](#server.js)
-* [package.json/package-lock.json](#package.json/package-lock.json)
+    * style.css
+    * signup.html/signup.js
+    * login.html/login.js
+    * members.html/members.js
+* server.js
+* package.json/package-lock.json
 
 * [Directions for Future Modification](#future-modification)
 
