@@ -19,7 +19,7 @@ Below is a detailed description of each of the directories used in the applicati
     * [config.json](#config.json)
     * [passport.js](#passport.js)
     * [middleware/isAuthenticated.js](#middleware/isAuthenticated.js)
-* [Models Directory](#models-dictionary)
+* [Models Directory](#models-directory)
     * [index.js](#index.js)
     * [user.js](#user.js)
 * [Routes Directory](#routes-directory)
